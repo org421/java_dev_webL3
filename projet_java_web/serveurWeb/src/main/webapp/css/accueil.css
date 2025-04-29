@@ -1,0 +1,14 @@
+.col-sm{
+    padding: 0px;
+}
+
+div#calendar{
+    margin: 10px;
+}
+
+#chat{
+    position: sticky;
+    bottom: 5%;
+    left: 95%;
+    z-index: 5;
+}
